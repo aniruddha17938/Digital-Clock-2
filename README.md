@@ -1,2 +1,2 @@
 # Digital-Clock-2
-Python Project 1
+First Project using Flask framework and Python
